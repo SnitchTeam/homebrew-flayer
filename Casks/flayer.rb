@@ -1,6 +1,6 @@
 cask "flayer" do
-  version "1.1"
-  sha256 "a3fb85606fb97fafbf9d111447b9c933ba21422d4c5c2deefcdb6817defdb52b"
+  version "1.2"
+  sha256 "b35938cf69ab92a64ad56ea7d9cac1d756811fbbf21e89ac50a945c9b9f495bb"
 
   url "https://github.com/SnitchTeam/flayer/releases/download/v#{version}/FlaYer-#{version}.dmg"
   name "FlaYer"
